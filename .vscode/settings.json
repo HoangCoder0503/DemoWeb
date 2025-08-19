@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1f7097e6-3436-44c2-850f-e02f65831c1c/resourceGroups/nguyenthaihoang/providers/Microsoft.Web/sites/Webmobile",
+    "appService.deploySubpath": "."
+}
